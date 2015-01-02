@@ -1,4 +1,4 @@
 adkit-basic
 ===========
 
-Basic Version of AdKiT for web development
+AdKiT Basic Version for web development
